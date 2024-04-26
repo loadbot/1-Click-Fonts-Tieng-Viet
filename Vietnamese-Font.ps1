@@ -10,7 +10,7 @@ if ($confirmation -ne 'Y') {
 }
 
 # URL of the fonts zip file
-$FontsZipURL = "https://download1588.mediafire.com/x511t0936pwgYGejycjdeYZQAYaj0G_WFq_gnQuQ1DuPn_AVVjW7UOOf-PeGhUMH-M3l45nYZSyTc89mwo8qJV4ARWBM7-NcS1yZ8FAWZI7CV2vcfIoDg_UIX9Hiv-vVaCel-rBXhrOlhBTemAnzOHDenjrQ-jqc1vV29tbdGg/4pb55y7r62usadd/Bo-Font-Tieng-Viet-Full.zip"
+$FontsZipURL = "https://github.com/loadbot/1-Click-Fonts-Tieng-Viet/releases/download/Font/Fonts-Tieng-Viet.zip"
 
 # Destination directory to extract fonts
 $TempExtractPath = "$env:TEMP\Fonts"
